@@ -1,9 +1,9 @@
 export const singleWords = [
-	"ademais", "afinal", "aliás", "analogamente", "anteriormente", "assim", "atualmente", "certamente", "conforme",
+	"ademais", "afinal", "aliás", "analogamente", "anteriormente", "assim", "atualmente", "certamente", "concomitantemente", "conforme",
 	"conquanto", "contudo", "decerto", "embora", "enfim", "enquanto", "então", "entretanto", "eventualmente",
 	"igualmente", "inegavelmente", "inesperadamente", "mas", "ocasionalmente", "outrossim", "pois", "porquanto", "porque", "portanto",
 	"posteriormente", "precipuamente", "primeiramente", "primordialmente", "principalmente", "salvo",
-	"semelhantemente", "similarmente", "sobretudo", "surpreendentemente", "todavia",
+	"semelhantemente", "similarmente", "simultaneamente", "sobretudo", "surpreendentemente", "todavia",
 ];
 
 export const multipleWords = [
